@@ -47,8 +47,7 @@ proposal-keis-middleaged/
 ├─ 03_contents/
 ├─ 04_images/
 ├─ 05_ppt/
-├─ 06_excel/
-└─ 99_archive/
+└─ 06_excel/
 ```
 
 ### 3.1 폴더별 역할
@@ -61,7 +60,6 @@ proposal-keis-middleaged/
 | `04_images/` | 다이어그램, 프로세스 이미지, 화면 예시 이미지 |
 | `05_ppt/` | PPT 작업본, 검토본, 최종본, 변경이력 관련 파일 |
 | `06_excel/` | 요구사항 매핑표, 변경이력, 산출물 목록 |
-| `99_archive/` | 이전본, 폐기본, 참고용 백업 파일 |
 
 ---
 
